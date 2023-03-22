@@ -1,0 +1,6 @@
+https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/quickstarts/python/
+
+1. Run the code
+2. Generate the JSON 
+3. Go over the parsed json in html
+3. From parse the json infer the information with elements
